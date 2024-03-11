@@ -1,4 +1,3 @@
-# lang.py
 import glob
 
 class I18N:
